@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{A8CFAE4F-6163-482F-9283-7A719914A6FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{A316FE99-A5E9-4826-90CA-552E3767384D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekShooping.Web", "GeekShooping.Web\GeekShooping.Web.csproj", "{BB9D4ACF-226C-4264-B5D6-F085D6C3D20F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BB9D4ACF-226C-4264-B5D6-F085D6C3D20F} = {A8CFAE4F-6163-482F-9283-7A719914A6FE}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB9D4ACF-226C-4264-B5D6-F085D6C3D20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9D4ACF-226C-4264-B5D6-F085D6C3D20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9D4ACF-226C-4264-B5D6-F085D6C3D20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9D4ACF-226C-4264-B5D6-F085D6C3D20F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
