@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cleuj\\OneDrive\\Área de Trabalho\\csharp\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj": {}
+    "C:\\Users\\cleuj\\OneDrive\\Área de Trabalho\\csharp\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cleuj\\OneDrive\\Área de Trabalho\\csharp\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj": {
+    "C:\\Users\\cleuj\\OneDrive\\Área de Trabalho\\csharp\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cleuj\\OneDrive\\Área de Trabalho\\csharp\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj",
-        "projectName": "GeekShooping.Web",
-        "projectPath": "C:\\Users\\cleuj\\OneDrive\\Área de Trabalho\\csharp\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj",
+        "projectUniqueName": "C:\\Users\\cleuj\\OneDrive\\Área de Trabalho\\csharp\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectName": "GeekShopping.ProductAPI",
+        "projectPath": "C:\\Users\\cleuj\\OneDrive\\Área de Trabalho\\csharp\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "packagesPath": "C:\\Users\\cleuj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cleuj\\OneDrive\\Área de Trabalho\\csharp\\GeekShooping\\GeekShooping.Web\\obj\\",
+        "outputPath": "C:\\Users\\cleuj\\OneDrive\\Área de Trabalho\\csharp\\GeekShooping\\GeekShopping.ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cleuj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -23,6 +23,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +41,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
