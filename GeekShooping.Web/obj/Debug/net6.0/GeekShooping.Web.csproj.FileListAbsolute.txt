@@ -28,3 +28,4 @@ C:\Users\cleuj\OneDrive\Área de Trabalho\csharp\GeekShooping\GeekShooping.Web\o
 C:\Users\cleuj\OneDrive\Área de Trabalho\csharp\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.pdb
 C:\Users\cleuj\OneDrive\Área de Trabalho\csharp\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.genruntimeconfig.cache
 C:\Users\cleuj\OneDrive\Área de Trabalho\csharp\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\ref\GeekShooping.Web.dll
+C:\Users\cleuj\OneDrive\Área de Trabalho\csharp\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.sourcelink.json
